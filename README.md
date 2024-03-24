@@ -3,6 +3,10 @@
 The TodoApp is a tool designed to help users efficiently organize their tasks and manage their time effectively. It's a simple app that works as an replacement for the physical todo list.
 
 
+
+https://github.com/pandajakob/TodoAppProject/assets/143381764/b1021925-a47d-4170-a524-69039a98a08b
+
+
 ## Features
 * **add tasks to one or multiple dates**
     
