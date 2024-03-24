@@ -4,7 +4,10 @@ The TodoApp is a tool designed to help users efficiently organize their tasks an
 
 
 
-https://github.com/pandajakob/TodoAppProject/assets/143381764/b1021925-a47d-4170-a524-69039a98a08b
+https://github.com/pandajakob/TodoAppProject/assets/143381764/d841bce9-8f5d-47c1-a4c3-3d16181b252a
+
+
+
 
 
 ## Features
