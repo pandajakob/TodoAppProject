@@ -15,7 +15,7 @@ https://github.com/pandajakob/TodoAppProject/assets/143381764/d841bce9-8f5d-47c1
     
     add the tasks by giving the task a name and picking one or multiple due dates.
 
-* **repeat tasks (20 years ahead)**
+* **repeat tasks (<20 years ahead)**
 
     repeat a task every day, week or month, and tasks will be added for the next 20 years.
     
